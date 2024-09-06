@@ -1,4 +1,3 @@
-Berikut adalah dokumentasi rinci untuk program AutoLISP Anda. Anda dapat menyalinnya langsung ke file README.md di GitHub Anda:
 
 ---
 
@@ -167,4 +166,4 @@ Gantilah `"C:/Path/To/Your/HitungTiangJalurDSorSF.lsp"` dengan path yang sesuai 
 
 ---
 
-Salin dan tempelkan dokumentasi ini ke file README.md Anda. Jika ada tambahan atau perubahan yang diperlukan, beri tahu saya!
+
